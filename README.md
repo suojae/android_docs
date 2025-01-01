@@ -10,5 +10,5 @@ Android 공식문서를 학습하며 기록한 레포지토리입니다 :)
 
 ## App architecture
 
-#### [1. Guide to app architecture]()
+#### [1. Guide to app architecture](https://github.com/suojae/android_docs/blob/main/app_architecture/about_app_architecture.md)
 
