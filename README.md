@@ -1,4 +1,4 @@
-# android_docs_study
+# android_docs
 
 <img src="https://github.com/suojae3/android_docs_study/assets/126137760/08c14573-b658-4b84-b93b-f7a7c66ec867" width="500">
 
